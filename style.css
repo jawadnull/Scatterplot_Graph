@@ -43,14 +43,14 @@ g{
     height: auto;
     width: auto;
     margin-top: 5px;
-    color: rgb(56, 58, 74);
+    color: rgb(0,0,0);
     font-size: 24px;
     margin-bottom: 5px;
 }
 
 #legend{
     margin-top: 5px;
-    color: rgb(56, 58, 74);
+    color: rgb(0,0,0);
     font-size: 18px;
     text-align: center;
 }
